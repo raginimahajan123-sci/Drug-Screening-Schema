@@ -19,7 +19,7 @@ Detailed entries for each compound screened in each program, including EC50/Acti
 •	Calendar Table:
 Continuous date dimension for time intelligence functions (YTD, QTD, monthly trends).
 
-# 5. Features / Highlights
+# 4. Features / Highlights
  ## Business Problem 🌐
 Key decision-making questions such as:
 •	Which projects are delayed or ahead of schedule?
@@ -55,7 +55,7 @@ Interactive slicer showing:
 •	%Activity
 Helps teams track validated leads in each program.
 ________________________________________
-8. # Date Slicer & Calendar Intelligence
+ ## Date Slicer & Calendar Intelligence
 Users can slice the entire dashboard by:
 •	Year
 •	Quarter
