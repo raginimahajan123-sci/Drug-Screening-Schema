@@ -35,7 +35,7 @@ To deliver an analytical and interactive Power BI dashboard that:
 •	Supports data-driven decisions for program prioritization and hit-to-lead advancement
 
 ________________________________________
-# Visuals of the dashboard 📊
+# 6. Visuals of the dashboard 📊
 ## Project Timeline gannt chart
 Displays:
 •	Start and end dates of each project
@@ -63,5 +63,10 @@ Users can slice the entire dashboard by:
 •	Month
 •	Date range
 Enabling time-based analysis of project progression and assay throughput.
-
+ ## 7. A snapshot of the visuals 🔗
+https://github.com/raginimahajan123-sci/Drug-Screening-Schema/blob/main/Screenshot%202025-12-12%20175313.png
+<img width="1151" height="653" alt="image" src="https://github.com/user-attachments/assets/58c9330b-c11f-4b35-a9a4-68a75c76866a" />
+https://github.com/raginimahajan123-sci/Drug-Screening-Schema/blob/main/Screenshot%202025-12-12%20175201.png
+<img width="1157" height="578" alt="image" src="https://github.com/user-attachments/assets/172fb982-5fe5-4372-8c4b-5269f76b5254" />
+ 
 
