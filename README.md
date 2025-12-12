@@ -27,7 +27,7 @@ Key decision-making questions such as:
 •	Which assays produce the highest-quality leads?
 •	How resources (ABS/PM/Client/In Vivo) are distributed across tasks?
 ________________________________________
-# Goal of the Dashboard 🎯
+# 5. Goal of the Dashboard 🎯
 To deliver an analytical and interactive Power BI dashboard that:
 •	Tracks R&D projects from preliminary screening to compound shipment and lead optimization
 •	Highlights high-performing compounds based on potency and activity thresholds
@@ -55,6 +55,7 @@ Interactive slicer showing:
 •	%Activity
 Helps teams track validated leads in each program.
 ________________________________________
+
  ## Date Slicer & Calendar Intelligence
 Users can slice the entire dashboard by:
 •	Year
@@ -62,3 +63,5 @@ Users can slice the entire dashboard by:
 •	Month
 •	Date range
 Enabling time-based analysis of project progression and assay throughput.
+
+
